@@ -29,7 +29,7 @@ export function OrderSummary() {
                 <BoxContainerDiv>
                 
                     <ImageContainerHeaderBoxDiv>
-                        <BgHeaderBoxDiv src={BgHeaderBox} />
+                        <BgHeaderBoxDiv src={BgHeaderBox} alt="bgHeaderBox" />
                     </ImageContainerHeaderBoxDiv>
                     
                     <TextContainerDiv>

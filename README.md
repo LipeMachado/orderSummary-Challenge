@@ -2,7 +2,7 @@
 
 Site do desafio (Frontend Mentor): <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">Frontend Mentor</a>
 
-Site desenvolvido por mim: <a href="" target="_blank">Meu Site</a>
+Site desenvolvido por mim: <a href="https://ordersummary-challenge.vercel.app/" target="_blank">Meu Site</a>
 
 
 # Prévia do site a ser desenvolvido:

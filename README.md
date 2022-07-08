@@ -1,4 +1,4 @@
-# Desafio Frontend - NFT Card Component
+# Desafio Order Summary | Frontend
 
 Site do desafio (Frontend Mentor): <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">Frontend Mentor</a>
 
